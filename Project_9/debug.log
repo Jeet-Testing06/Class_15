@@ -1,0 +1,6 @@
+[1002/105314.829:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[1002/105315.481:ERROR:file_io.cc(89)] ReadExactly: expected 40, observed 0
+[1002/105316.030:ERROR:exception_handler_server.cc(526)] ConnectNamedPipe: The pipe is being closed. (0xE8)
+[1002/105324.057:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[1002/105324.264:ERROR:file_io.cc(89)] ReadExactly: expected 40, observed 0
+[1002/105324.439:ERROR:exception_handler_server.cc(526)] ConnectNamedPipe: The pipe is being closed. (0xE8)

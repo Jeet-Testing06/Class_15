@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="159028" started-at="2018-10-04T10:33:06Z" finished-at="2018-10-04T10:35:45Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="159028" started-at="2018-10-04T10:33:06Z" finished-at="2018-10-04T10:35:45Z">
+      <class name="org.testing.testScripts.TC1">
+        <test-method status="PASS" signature="browser_launch()[pri:0, instance:org.testing.testScripts.TC1@68c4039c]" name="browser_launch" is-config="true" duration-ms="8840" started-at="2018-10-04T16:03:06Z" finished-at="2018-10-04T16:03:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browser_launch -->
+        <test-method status="PASS" signature="test_case()[pri:0, instance:org.testing.testScripts.TC1@68c4039c]" name="test_case" duration-ms="23739" started-at="2018-10-04T16:03:15Z" finished-at="2018-10-04T16:03:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_case -->
+        <test-method status="PASS" signature="browser_close()[pri:0, instance:org.testing.testScripts.TC1@68c4039c]" name="browser_close" is-config="true" duration-ms="2347" started-at="2018-10-04T16:03:38Z" finished-at="2018-10-04T16:03:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browser_close -->
+      </class> <!-- org.testing.testScripts.TC1 -->
+      <class name="org.testing.testScripts.TC2">
+        <test-method status="PASS" signature="browser_launch()[pri:0, instance:org.testing.testScripts.TC2@91161c7]" name="browser_launch" is-config="true" duration-ms="7677" started-at="2018-10-04T16:03:41Z" finished-at="2018-10-04T16:03:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browser_launch -->
+        <test-method status="PASS" signature="test_case()[pri:0, instance:org.testing.testScripts.TC2@91161c7]" name="test_case" duration-ms="23429" started-at="2018-10-04T16:03:48Z" finished-at="2018-10-04T16:04:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_case -->
+        <test-method status="PASS" signature="browser_close()[pri:0, instance:org.testing.testScripts.TC2@91161c7]" name="browser_close" is-config="true" duration-ms="2346" started-at="2018-10-04T16:04:12Z" finished-at="2018-10-04T16:04:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browser_close -->
+      </class> <!-- org.testing.testScripts.TC2 -->
+      <class name="org.testing.testScripts.TC3">
+        <test-method status="PASS" signature="browser_launch()[pri:0, instance:org.testing.testScripts.TC3@604ed9f0]" name="browser_launch" is-config="true" duration-ms="7399" started-at="2018-10-04T16:04:14Z" finished-at="2018-10-04T16:04:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browser_launch -->
+        <test-method status="PASS" signature="test_case()[pri:0, instance:org.testing.testScripts.TC3@604ed9f0]" name="test_case" duration-ms="36225" started-at="2018-10-04T16:04:22Z" finished-at="2018-10-04T16:04:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_case -->
+        <test-method status="PASS" signature="browser_close()[pri:0, instance:org.testing.testScripts.TC3@604ed9f0]" name="browser_close" is-config="true" duration-ms="148" started-at="2018-10-04T16:04:58Z" finished-at="2018-10-04T16:04:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browser_close -->
+      </class> <!-- org.testing.testScripts.TC3 -->
+      <class name="org.testing.testScripts.TC4">
+        <test-method status="PASS" signature="browser_launch()[pri:0, instance:org.testing.testScripts.TC4@6a4f787b]" name="browser_launch" is-config="true" duration-ms="8020" started-at="2018-10-04T16:04:58Z" finished-at="2018-10-04T16:05:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browser_launch -->
+        <test-method status="PASS" signature="test_case()[pri:0, instance:org.testing.testScripts.TC4@6a4f787b]" name="test_case" duration-ms="36434" started-at="2018-10-04T16:05:06Z" finished-at="2018-10-04T16:05:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_case -->
+        <test-method status="PASS" signature="browser_close()[pri:0, instance:org.testing.testScripts.TC4@6a4f787b]" name="browser_close" is-config="true" duration-ms="2384" started-at="2018-10-04T16:05:42Z" finished-at="2018-10-04T16:05:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browser_close -->
+      </class> <!-- org.testing.testScripts.TC4 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
